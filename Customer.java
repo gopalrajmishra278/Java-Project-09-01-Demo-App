@@ -3,7 +3,7 @@
 
  class Customer{
   
-      public void addCustomer(){
+      public void addCustomers(){
 	  
 	  //business logic
 	  
