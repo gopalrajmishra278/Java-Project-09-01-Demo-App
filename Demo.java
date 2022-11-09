@@ -1,16 +1,14 @@
-
-
+  
+  
   class Demo{
   
-      public void empDetails(int n){
-	  
-	  //business logic
-	  
-	  
-	  }
+    public void m1(){
+	
+	//logic
+	
+	
+	
+	}
   
   
-  
-  
-  
-  }
+ }
