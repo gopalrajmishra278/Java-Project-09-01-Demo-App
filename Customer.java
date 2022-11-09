@@ -3,7 +3,7 @@
 
  class Customer{
  
-         int n;
+         String name;
   
       public void addCustomers(){
 	  
