@@ -2,7 +2,7 @@
 
   class Demo{
   
-      public void empDetails(){
+      public void empDetails(int n){
 	  
 	  //business logic
 	  
